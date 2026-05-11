@@ -1,0 +1,21 @@
+Technical Procedure & Commands:
+Step 1: Interface Initialization
+Started the packet analyzer in the background via terminal:
+Wireshark 
+Step 2: Database Setup
+Initialized the framework database to manage session logs:
+msfdb init
+Step 3: Framework Access
+Launched the Metasploit console from the command line:
+msfconsole
+Step 4: Module Configuration
+Executed commands to select the exploit and configure target parameters:
+use exploit/[module_path]
+set RHOSTS [target_ip]
+set LHOST [your_ip]
+show options
+Step 5: Final Execution
+Triggered the exploit command and verified the active session status:
+exploit
+sessions -l
+
