@@ -12,5 +12,5 @@ Final Project Report: All Network Traffic Analysis
 ​Hijacking Demonstration: Analyzed how captured cookies can be used to perform Session Hijacking, allowing unauthorized access to user accounts.
 ​4. Conclusion & Results
 ​Key Finding: Proved that unencrypted network traffic is highly vulnerable to sniffing and session theft.
-​Outcome: Successfully demonstrated the complete lifecycle of a network session, from initiation to potential hijacking.
-Project Screenshot](IMG_cookie_http.jpg)
+​Outcome: Successfully demonstrated the complete lifecycle of a network session, from initiation to potential hijacking
+![Project Screenshot](IMG_20260511_163403.jpg)
