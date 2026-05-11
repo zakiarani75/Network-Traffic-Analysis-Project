@@ -13,3 +13,4 @@ Final Project Report: All Network Traffic Analysis
 ​4. Conclusion & Results
 ​Key Finding: Proved that unencrypted network traffic is highly vulnerable to sniffing and session theft.
 ​Outcome: Successfully demonstrated the complete lifecycle of a network session, from initiation to potential hijacking.
+Project Screenshot](IMG_cookie_http.jpg)
